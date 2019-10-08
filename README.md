@@ -12,7 +12,7 @@ go get github.com/GishaJamesB/pnp
 package main
 
 import (
-    "github.com/GishaJamesB/pnpv"
+    "github.com/GishaJamesB/pnp"
 )
 
 func main() {
